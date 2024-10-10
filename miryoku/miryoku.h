@@ -24,9 +24,7 @@
 #define U_NU &none // available but not used
 
 //custom macro
-U_MACRO(U_CFN,
-        bindings = <&kp F2 &kp LA(A)>;
-    )
+U_MACRO(U_CFN, bindings = <&kp F2 &kp LA(A)>;)
 
 #define U_TAPPING_TERM 200
 
